@@ -17,7 +17,7 @@ This application allows users to use a text editor both online and offline and p
 
 - Install required dependencies with `npm i`
 - Start the application by running `npm run start`
-- Visit `localhost:3000` and click install to open the application
+- Visit `localhost:3001` and click install to open the application
 
 View the deployed application [here.](https://drive.google.com/file/d/1ciG2lykHxgiDiK_uj-hH5hOaGO_3pYjr/view?usp=drive_link)
 
