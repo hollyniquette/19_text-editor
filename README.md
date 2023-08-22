@@ -19,7 +19,7 @@ This application allows users to use a text editor both online and offline and p
 - Start the application by running `npm run start`
 - Visit `localhost:3001` and click install to open the application
 
-View the deployed application [here.](https://drive.google.com/file/d/1ciG2lykHxgiDiK_uj-hH5hOaGO_3pYjr/view?usp=drive_link)
+View the deployed application [here.](https://git.heroku.com/boiling-wave-42755.git)
 
 ## Guidelines for Contribution
 
