@@ -14,7 +14,8 @@
     "build": "cd client && npm run build",
     "install": "cd server && npm i && cd ../client && npm i",
     "client": "cd client && npm run start",
-    "dev": "cd client && npm run dev"
+    "dev": "cd client && npm run dev",
+    "heroku-prebuild": "cd client && npm install --dev"
   },
   "keywords": [],
   "author": "Holly Niquette",
