@@ -1,6 +1,10 @@
 {
   "name": "jate",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  },
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -8,7 +12,7 @@
     "start": "concurrently \"npm run build\" \"cd server && npm run start\"",
     "server": "cd server && npm run server",
     "build": "cd client && npm run build",
-    "install": "cd server && npm clean-install && cd ../client && npm clean-install",
+    "install": "cd server && npm i && cd ../client && npm i",
     "client": "cd client && npm run start",
     "dev": "cd client && npm run dev"
   },
